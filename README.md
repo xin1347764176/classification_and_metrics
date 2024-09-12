@@ -1,6 +1,6 @@
 # 代码使用简介
 
-本项目在Linux环境下运行。代码参考自 [https://github.com/WZMIAOMIAO/deep-learning-for-image-processing](https://github.com/WZMIAOMIAO/deep-learning-for-image-processing)
+代码参考自 [https://github.com/WZMIAOMIAO/deep-learning-for-image-processing](https://github.com/WZMIAOMIAO/deep-learning-for-image-processing)
 
 1. **数据集准备**  
    首先将划分好标签的数据集放在 `databalance3\photo` 文件夹中。使用 `split_data.py` 用于按一定比例划分训练集和验证集。
